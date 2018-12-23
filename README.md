@@ -41,6 +41,8 @@ pip3 install h5py
 
  **AWS:** https://aws.amazon.com/blogs/machine-learning/get-started-with-deep-learning-using-the-aws-deep-learning-ami/
 
-**Youtube:**https://www.youtube.com/watch?v=qhUvQiKec2U
+**Youtube:** https://www.youtube.com/watch?v=qhUvQiKec2U
+
 **Further reading and extensions:** https://medium.com/udacity/teaching-a-machine-to-steer-a-car-d73217f2492c
+
 **More data:** https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5
